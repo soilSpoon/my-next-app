@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <div className="{ 'pl-20px bg-yellow-500 font-white text-sm' }">
+          <div className="{ ' bg-yellow-200 inline font-white text-sm ' }">
             Should be Yellow
           </div>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
