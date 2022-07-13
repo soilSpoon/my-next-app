@@ -13,6 +13,6 @@
     "react-dom": "18.0.0"
   },
   "devDependencies": {
-    "windicss-webpack-plugin": "0.6.1"
+    "windicss-webpack-plugin": "1.2.4"
   }
 }
